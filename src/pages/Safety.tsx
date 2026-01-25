@@ -15,6 +15,8 @@ import {
   ArrowRight
 } from "lucide-react";
 
+
+
 const Safety = () => {
   const verificationSystems = [
     {
