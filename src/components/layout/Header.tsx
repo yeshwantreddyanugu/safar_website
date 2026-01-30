@@ -32,8 +32,9 @@ const Header = () => {
               className="w-10 h-10 md:w-12 md:h-12 rounded-full object-cover"
             />
             <div className="hidden sm:flex flex-col">
-              <span className="text-lg md:text-xl font-bold text-foreground">Safar</span>
-              <span className="text-xs text-muted-foreground -mt-1">Couriers</span>
+              <span className="text-lg md:text-xl font-bold text-foreground">Safar Couriers (OPC) Private Limited </span>
+              
+            
             </div>
           </Link>
 
